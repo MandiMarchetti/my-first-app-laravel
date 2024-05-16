@@ -15,8 +15,8 @@ body::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("https://img.freepik.com/vecteurs-premium/motif-ondes-geometriques-japonaises-sans-couture-rose-blanc-seigaihamon_713536-788.jpg");
-    opacity: 0.4; /* Ajuste a opacidade conforme necessário */
+    background-image: url("https://media.istockphoto.com/id/524178070/vector/abstract-seamless-background-pattern-made-of-hand-drawn-elements.jpg?s=612x612&w=0&k=20&c=uWh2y0m7HWv1e27AByCTB4YoI27XthWJfyJL9ElKxQs=");
+    opacity: 0.2; /* Ajuste a opacidade conforme necessário */
 }
 a:hover {
     text-decoration: none;
@@ -108,7 +108,7 @@ h6 span {
     width: 100%;
     height: 100%;
     background-color: #2b2e38;
-    background-image: url("https://img.freepik.com/vecteurs-premium/fond-japonais-degrade-couleur_573652-416.jpg");
+    background-image: url("https://media.istockphoto.com/id/524178070/vector/abstract-seamless-background-pattern-made-of-hand-drawn-elements.jpg?s=612x612&w=0&k=20&c=uWh2y0m7HWv1e27AByCTB4YoI27XthWJfyJL9ElKxQs=");
     position: absolute;
     border-radius: 47px;
     -webkit-transform-style: preserve-3d;
